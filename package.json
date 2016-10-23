@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Real-Time Data and DebSockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scauos/Node.js-chat-app.git"
+  },
+  "author": "scauos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scauos/Node.js-chat-app/issues"
+  },
+  "homepage": "https://github.com/scauos/Node.js-chat-app#readme"
+}
